@@ -134,13 +134,13 @@ const config = {
   //项目卡片 其中 字段"show"控制初始卡片的text是否展开
   projectcards:[ 
     {go:"🚀 前往",img:"/img/IMG_1860.png",title:"博客",subtitle:"个人博客", text:"这是基于WordPress的个人博客",url:"https://wyyzxzyg.cn",show:false},
-    {go:"🗂️ 前往",img:"/img/IMG_4238.png",title:"下载站",subtitle:"提供网络资源", text:"本下载站提供计算机及其他资源，可供下载使用。",url:"https://download.yjggzs.top",show:false},
-    {go:"📝 前往",img:"/img/sunshine.jpg",title:"Project 3",subtitle:"3,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
+    {go:"🗂️ 前往",img:"/img/IMG_4238.png",title:"下载站",subtitle:"提供网络资源", text:"本下载站由橘络信息科技工作室提供计算机及其他资源，可供下载使用。",url:"https://download.yjggzs.top",show:false},
+    /*{go:"📝 前往",img:"/img/sunshine.jpg",title:"Project 3",subtitle:"3,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
     {go:"👍 前往",img:"/img/sunshine.jpg",title:"Project 4",subtitle:"4,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
     {go:"🗃 前往",img:"/img/sunshine.jpg",title:"Project 5",subtitle:"5,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
     {go:"🎨 前往",img:"/img/sunshine.jpg",title:"Project 6",subtitle:"6,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
     {go:"💍 前往",img:"/img/sunshine.jpg",title:"Project 7",subtitle:"7,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
-    {go:"🔍 前往",img:"/img/sunshine.jpg",title:"Project 8",subtitle:"8,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
+    {go:"🔍 前往",img:"/img/sunshine.jpg",title:"Project 8",subtitle:"8,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},*/
   ],
   
   statement: ["Copyright © 2025 我願一直向著陽光."],
