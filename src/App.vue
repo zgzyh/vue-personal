@@ -258,3 +258,6 @@
   @import url(/css/app.less);
   @import url(/css/mobile.less);
 </style>
+ 
+<!-- 引入看板娘 -->
+<script src="https://live2d.xiaofa520.cn/autoload.js"></script>
