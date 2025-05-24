@@ -132,15 +132,14 @@ const config = {
   },
 
     chatbot: {
-    src: "https://ai.xiaofa520.cn/js/iframe.js",
-    id: "chatbot-iframe",
-    dataBotSrc: "https://ai.xiaofa520.cn/chat/share?shareId=kosf0l0alc7gz1k9716jganm",
-    dataDefaultOpen: "false",
-    dataDrag: "true",
-    dataOpenIcon: "data:image/svg+xml;base64,...",
-    dataCloseIcon: "data:image/svg+xml;base64,...",
-  },
-};
+  src: "https://ai.xiaofa520.cn/js/iframe.js",
+  id: "chatbot-iframe",
+  dataBotSrc: "https://ai.xiaofa520.cn/chat/share?shareId=kosf0l0alc7gz1k9716jganm",
+  dataDefaultOpen: "false",
+  dataDrag: "true",
+  dataOpenIcon: "data:image/svg+xml;base64,...",
+  dataCloseIcon: "data:image/svg+xml;base64,...",
+},
 
   //项目卡片 其中 字段"show"控制初始卡片的text是否展开
   projectcards:[ 
