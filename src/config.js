@@ -51,7 +51,7 @@ const config = {
 
   //社交按钮
   socialPlatformIcons: [
-    {icon:"mdi-home",link:"https://wyyzxzyg.cn"}
+    {icon:"mdi-home",link:"https://wyyzxzyg.cn"},
     {icon:"mdi-github",link:"https://www.github.com/zgzyh"},
     {icon:"mdi-email",link:"mailto:2738226109@qq.com"},
     {icon:"mdi-qqchat",link:"https://qm.qq.com/q/GneX034gyO"},
