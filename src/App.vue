@@ -254,8 +254,6 @@
 </template>
 
 <script src="./app.js"></script>
-<!-- 引入看板娘 -->
-<script src="https://live2d.xiaofa520.cn/autoload.js"></script>
 <style scoped>
   @import url(/css/app.less);
   @import url(/css/mobile.less);
