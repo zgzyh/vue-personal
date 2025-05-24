@@ -4,7 +4,7 @@ const config = {
     title: '我願一直向著陽光(ZGZYH)的个人主页🎉',
     description: '欢迎来到ZGZYH的奇妙世界！',
     keywords: '我願一直向著陽光,zgzyh,个人主页,个人网站',
-    icon: '/favicon.ico'   //网页图标，支持外链
+    icon: '/img/favicon.ico'   //网页图标，支持外链
   },
 
   avatar: "/img/avatar.jpg", // 头像
