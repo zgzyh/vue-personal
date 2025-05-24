@@ -145,5 +145,9 @@ const config = {
   
   statement: ["Copyright © 2025 我願一直向著陽光."],
 }
+ 
+<!-- 引入看板娘 -->
+<script src="https://live2d.xiaofa520.cn/autoload.js"></script>
+
 
 export default config
