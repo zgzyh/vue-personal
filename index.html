@@ -13,6 +13,17 @@
     <div id="app"></div>
     <script type="module" src="/src/main.js"></script>
      
+    <script type="text/javascript">
+  // 模拟加载动画完成后加载看板娘
+  window.addEventListener("load", function () {
+    // 等待加载动画完成，再初始化看板娘
+    if (document.getElementById("loading-screen")) {
+      // 加载动画完成后移除加载动画元素
+      document.getElementById("loading-screen").style.display = "none";
+    }
+
+    // 加载看板娘
+    document.write(`
     <link rel="stylesheet" type="text/css" href="https://live2d.xiaofa520.cn/live2d-widget/waifu.css"/>
       <!-- waifu-tips.js 依赖 JQuery 库 -->
     <script src="https://live2d.xiaofa520.cn/live2d-widget/jquery.min.js"></script>
