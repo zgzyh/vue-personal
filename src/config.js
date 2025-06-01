@@ -8,7 +8,7 @@ const config = {
   },
 
   avatar: "/img/avatar.jpg", // 头像
-  welcometitle: "Hi, I'm Zgzyh", // 标题
+  welcometitle: "Hi, I'm ZGZYH", // 标题
 
   // 颜色配置
   color: {
@@ -70,11 +70,11 @@ const config = {
   ],
 
   //音乐播放配置，采用MetingJS Api(https://github.com/metowolf/MetingJS)
-  musicPlayer:{
+  /*musicPlayer:{
     server: 'netease',  //服务提供商 --网易云音乐
     type: 'playlist',   //歌单类型
     id: '2028178887'  //歌单id ---> music.163.com/#/playlist?id=2028178887
-  },
+  },*/
 
   //壁纸数据 -----可以将壁纸文件上传到uhsea.com获取网络直链。若想调用api，请前往脚本自行修改逻辑
   wallpaper:{
@@ -133,7 +133,7 @@ const config = {
     ],
   },
 
-    chatbot: {
+  /*chatbot: {
   src: "https://ai.xiaofa520.cn/js/iframe.js",
   id: "chatbot-iframe",
   dataBotSrc: "https://ai.xiaofa520.cn/chat/share?shareId=kosf0l0alc7gz1k9716jganm",
@@ -141,14 +141,14 @@ const config = {
   dataDrag: "true",
   dataOpenIcon: "data:image/svg+xml;base64,...",
   dataCloseIcon: "data:image/svg+xml;base64,...",
-},
+},*/
 
   //项目卡片 其中 字段"show"控制初始卡片的text是否展开
   projectcards:[ 
     {go:"🚀 前往",img:"/img/IMG_1860.png",title:"博客",subtitle:"个人博客", text:"这是基于WordPress的个人博客",url:"https://wyyzxzyg.cn",show:false},
     {go:"🗂️ 前往",img:"/img/IMG_4238.png",title:"下载站",subtitle:"提供网络资源", text:"本下载站由橘络信息科技工作室提供计算机及其他资源，可供下载使用。",url:"https://download.yjggzs.top",show:false},
-    /*{go:"📝 前往",img:"/img/sunshine.jpg",title:"Project 3",subtitle:"3,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
-    {go:"👍 前往",img:"/img/sunshine.jpg",title:"Project 4",subtitle:"4,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
+    {go:"📝 前往",img:"/img/sunshine.jpg",title:"博客（Vue版） 3",subtitle:"3,000 miles of wonder", text:"这是基于VuePress的博客。",url:"https://blogs.wyyzxzyg.cn",show:false},
+    /*{go:"👍 前往",img:"/img/sunshine.jpg",title:"Project 4",subtitle:"4,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
     {go:"🗃 前往",img:"/img/sunshine.jpg",title:"Project 5",subtitle:"5,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
     {go:"🎨 前往",img:"/img/sunshine.jpg",title:"Project 6",subtitle:"6,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
     {go:"💍 前往",img:"/img/sunshine.jpg",title:"Project 7",subtitle:"7,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
